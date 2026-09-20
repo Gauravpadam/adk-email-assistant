@@ -1,6 +1,9 @@
 # Core agent framework
 google-adk>=0.1.0
-mcp[cli]>=1.0.0
+mcp[cli]>=1.0.0a
+google-adk[litellm]
+google-adk[extensions]
+
 
 # Configuration and validation
 python-dotenv>=1.0.0
